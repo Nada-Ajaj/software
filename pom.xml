@@ -10,8 +10,10 @@
     <maven.compiler.source>7</maven.compiler.source>
     <maven.compiler.target>7</maven.compiler.target>
  
- <sonar.organization>software-ibtihaj-nada</sonar.organization>
+
+  <sonar.organization>nadaibtihaj</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
     <sonar.coverage.exclusions>**/Main.java</sonar.coverage.exclusions>
 </properties>
 
